@@ -145,7 +145,8 @@
 ```
 弩{2}：修補/耐久3/分裂箭矢/快速上弦3
 ```
-/minecraft:give @p minecraft:enchanted_book{Enchantments:[{id:"minecraft:unbreaking",lvl:3s},{id:"minecraft:multishot",lvl:1s},{id:"minecraft:quick_charge",lvl:3s},{id:"minecraft:mending",lvl:1s}]} 1```
+/minecraft:give @p minecraft:enchanted_book{Enchantments:[{id:"minecraft:unbreaking",lvl:3s},{id:"minecraft:multishot",lvl:1s},{id:"minecraft:quick_charge",lvl:3s},{id:"minecraft:mending",lvl:1s}]} 1
+```
 戟{1}：修補/耐久3/魚叉5/忠誠3/喚雷
 ```
 /minecraft:give @p minecraft:enchanted_book{Enchantments:[{id:"minecraft:unbreaking",lvl:3s},{id:"minecraft:impaling",lvl:5s},{id:"minecraft:loyalty",lvl:3s},{id:"minecraft:mending",lvl:1s},{id:"minecraft:channeling",lvl:1s}]} 1
