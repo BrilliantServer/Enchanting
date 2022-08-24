@@ -1,4 +1,4 @@
-# Enchanting
+# Enchanting 1.19.2
 頭盔{1}：修補/耐久3/保護4/尖刺3/親水性1/水下呼吸3
 ```
 /minecraft:give @p minecraft:enchanted_book{Enchantments:[{id:"minecraft:mending",lvl:1s},{id:"minecraft:unbreaking",lvl:3s},{id:"minecraft:protection",lvl:4s},{id:"minecraft:thorns",lvl:3s},{id:"minecraft:aqua_affinity",lvl:1s},{id:"minecraft:respiration",lvl:3s}]} 1
