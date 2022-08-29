@@ -91,6 +91,14 @@
 ```
 /minecraft:give @p minecraft:enchanted_book{Enchantments:[{id:"minecraft:mending",lvl:1s},{id:"minecraft:unbreaking",lvl:3s},{id:"minecraft:looting",lvl:3s},{id:"minecraft:sweeping",lvl:3s},{id:"minecraft:knockback",lvl:2s},{id:"minecraft:fire_aspect",lvl:2s},{id:"minecraft:smite",lvl:5s}]} 1
 ```
+鎬{1}：修補/耐久3/效率5/絲綢之觸
+```
+/minecraft:give @p minecraft:enchanted_book{Enchantments:[{id:"minecraft:mending",lvl:1s},{id:"minecraft:unbreaking",lvl:3s},{id:"minecraft:efficiency",lvl:5s},{id:"minecraft:silk_touch",lvl:1s}]} 1
+```
+鎬{2}：修補/耐久3/效率5/幸運3
+```
+/minecraft:give @p minecraft:enchanted_book{Enchantments:[{id:"minecraft:mending",lvl:1s},{id:"minecraft:unbreaking",lvl:3s},{id:"minecraft:efficiency",lvl:5s},{id:"minecraft:fortune",lvl:3s}]} 1
+```
 斧{1-1}：修補/耐久3/效率5/鋒利5/絲綢之觸
 ```
 /minecraft:give @p minecraft:enchanted_book{Enchantments:[{id:"minecraft:mending",lvl:1s},{id:"minecraft:unbreaking",lvl:3s},{id:"minecraft:efficiency",lvl:5s},{id:"minecraft:sharpness",lvl:5s},{id:"minecraft:silk_touch",lvl:1s}]} 1
@@ -176,6 +184,10 @@
 /minecraft:give @p minecraft:enchanted_book{Enchantments:[{id:"minecraft:unbreaking",lvl:3s},{id:"minecraft:mending",lvl:1s}]} 1
 ```
 扭曲蕈菇釣竿：耐久3/修補1
+```
+/minecraft:give @p minecraft:enchanted_book{Enchantments:[{id:"minecraft:unbreaking",lvl:3s},{id:"minecraft:mending",lvl:1s}]} 1
+```
+鞘翅：耐久3/修補1
 ```
 /minecraft:give @p minecraft:enchanted_book{Enchantments:[{id:"minecraft:unbreaking",lvl:3s},{id:"minecraft:mending",lvl:1s}]} 1
 ```
